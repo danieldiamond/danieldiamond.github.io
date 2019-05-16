@@ -13,11 +13,14 @@ author: danieldiamond
 externalLink: false
 ---
 
-![som](https://github.com/danieldiamond/kohonen-network/blob/master/animation.gif?raw=true)
+![som](../assets/images/som.gif)
 
 
-[This project](https://danieldiamond.github.io/kohonen-network) implements Kohonen Self Organizing Map (SOM) and trains the network whilst investigating the effects of initial hyperparameter settings.
+[This project](https://github.com/danieldiamond/kohonen-network) implements Kohonen Self Organizing Map (SOM) and trains the network whilst investigating the effects of initial hyperparameter settings.
 
 The Kohonen SOM provides a data visualization technique which helps to understand high dimensional data by reducing the dimensions of data to a map. SOM also represents clustering concept by grouping similar data together.
 
 Unlike other learning technique in neural networks, training a SOM requires no target vector. A SOM learns to classify the training data without any external supervision.
+
+Within this notebook, several concepts are discussed, from algorithm complexity and speed, to hyperparameter sensitivity analysis as shown below:
+![som](../assets/images/som_sensitivity.png)
