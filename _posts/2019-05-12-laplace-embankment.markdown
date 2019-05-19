@@ -1,5 +1,5 @@
 ---
-title: "Flow Beneath Embankment An Using Laplace & PDE"
+title: "Flow Beneath An Embankment Using Laplace & PDE"
 layout: post
 date: 2019-05-12 12:51
 tag: [laplace,poisson,discretization,pde]
