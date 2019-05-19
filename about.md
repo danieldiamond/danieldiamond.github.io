@@ -4,9 +4,13 @@ layout: page
 ---
 ![daniel](/assets/images/daniel.jpg)
 
-<p>Data</p>
+Currently a Data Engineer at pymetrics, developing infrastructure, systems and tools that enable the various teams within the organization. This includes the development of ETL pipelines connecting various data sources through standalone microservices using Airflow, Docker and Kubernetes as well as establishing security and data quality control measures through unit testing & monitoring via Newrelic.
 
-<p>More data</p>
+Originally joined pymetrics as a Data Scientist, working on neuroscience games and bias-free AI and contributed to our open source package, [AuditAI](https://github.com/pymetrics/audit-ai), a python package that promotes fairness-aware machine learning algorithms. Additional responsibilities includes building custom, cross-validated models for each role on company based top performers and working on algorithmic auditing techniques to identify and remove bias.
+
+Continuously studying and engaging in SoTA practices in Deep Learning and Machine Learning through online courses such as fast.ai and other MOOC platforms (edX, MIT-OCW, etc). More recently, my experience has extended to PyTorch to solve various problems in [NLP](https://github.com/danieldiamond/nlp-projects) and [Image Classification](https://github.com/danieldiamond/dl-projects). Overall, my success in this area is emphasized through a deep understanding of fundamental mathematical and engineering principles, advanced statistical analysis as well as several programming languages.
+
+Graduated from the University of New South Wales in June 2015, completing a double degree in Engineering and Commerce and receiving a first class honors in Engineering including a High Distinction in [my thesis](https://www.slideshare.net/DanielDiamond4/evaluation-of-thermal-conductivity-using-fractal-approach-78905305). Throughout this degree, I developed proficiencies in a diverse range of disciplines including computer science, mathematics, econometrics, statistical analysis and engineering principles. My thesis utilized a range of skills in predictive modeling, fractal theory, programming and statistical analysis.
 
 <h2>Skills</h2>
 
@@ -35,4 +39,5 @@ layout: page
 	<li><a href="https://github.com/danieldiamond/kohonen-network">Implementation of a Kohonen Self Organizing Map (SOM)</a></li>
 	<li><a href="https://github.com/danieldiamond/SAT-Scores">Exploratory Data Analysis in NYC SAT Scores</a></li>
 	<li><a href="https://github.com/danieldiamond/melbourne_housing">Machine Learning: Melbourne Housing Price Predictions</a></li>
+	<li><a href="https://github.com/danieldiamond/embankment">Determining The Flow Beneath an Embankment Using Laplace</a></li>
 </ul>

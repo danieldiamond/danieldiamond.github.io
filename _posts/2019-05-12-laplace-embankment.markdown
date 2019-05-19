@@ -6,7 +6,7 @@ tag: [laplace,poisson,discretization,pde]
 image: https://raw.githubusercontent.com/danieldiamond/embankment/master/images/embankment_diagram.jpg
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A numerical approach to determining the flow beneath an embankment."
 category: project
 author: danieldiamond
