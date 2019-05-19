@@ -6,7 +6,7 @@ tag: [eda,sat,nyc,machinelearning,datawrangling]
 image: https://raw.githubusercontent.com/danieldiamond/SAT-Scores/master/images/sat_scores.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Exploratory Data Analysis of SAT Scores in NYC"
 category: project
 author: danieldiamond

@@ -6,7 +6,7 @@ tag: [datawarehouse,datalake,spark,bigdata,starschema,sql,nosql]
 image: https://raw.githubusercontent.com/danieldiamond/udacity-dend/master/data_lake_spark/images/star_schema.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A Range of Data Engineering Projects"
 category: project
 author: danieldiamond

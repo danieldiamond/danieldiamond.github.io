@@ -6,7 +6,7 @@ tag: [deeplearning,nlp,ulmfit,transferlearning,rnn]
 image:
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Wine Predictions Using an ULMFiT Architecture with Transfer Learning"
 category: project
 author: danieldiamond

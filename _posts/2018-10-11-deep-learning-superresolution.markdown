@@ -6,7 +6,7 @@ tag: [deeplearning,GAN,unet,cv,cnn]
 image:
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Using U-Nets To Enhance Image Resolution"
 category: project
 author: danieldiamond

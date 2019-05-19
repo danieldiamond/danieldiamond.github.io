@@ -6,7 +6,7 @@ tag: [kohonen,SOM,clustering,dataviz]
 image: http://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/kohonen1.gif
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Implementation of a Kohonen Self Organizing Map (SOM)"
 category: project
 author: danieldiamond
