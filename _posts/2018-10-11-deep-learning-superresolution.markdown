@@ -1,7 +1,7 @@
 ---
 title: "Super Resolution Using GANs and U-Nets"
 layout: post
-date: 2018-04-23 12:51
+date: 2018-10-11 12:51
 tag: [deeplearning,GAN,unet,cv,cnn]
 image:
 headerImage: false
