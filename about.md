@@ -36,6 +36,7 @@ Graduated from the University of New South Wales in June 2015, completing a doub
 	<li><a href="https://github.com/pymetrics/audit-ai/">Audit AI</a></li>
 	<li><a href="https://github.com/danieldiamond/dl-projects">Deep Learning: Computer Vision Projects</a></li>
 	<li><a href="https://github.com/danieldiamond/nlp-projects/tree/master/wine-reviews">Deep Learning: NLP Projects</a></li>
+	<li><a href="https://github.com/danieldiamond/data-engineering-capstone/">Data Engineering Capstone Project</a></li>
 	<li><a href="https://github.com/danieldiamond/kohonen-network">Implementation of a Kohonen Self Organizing Map (SOM)</a></li>
 	<li><a href="https://github.com/danieldiamond/SAT-Scores">Exploratory Data Analysis in NYC SAT Scores</a></li>
 	<li><a href="https://github.com/danieldiamond/melbourne_housing">Machine Learning: Melbourne Housing Price Predictions</a></li>
