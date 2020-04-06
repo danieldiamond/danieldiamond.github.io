@@ -4,7 +4,7 @@ layout: page
 ---
 ![daniel](/assets/images/daniel.jpg)
 
-Currently a Data Engineer at pymetrics, developing infrastructure, systems and tools that enable the various teams within the organization. This includes the development of ETL pipelines connecting various data sources through standalone microservices using Airflow, Docker and Kubernetes as well as establishing security and data quality control measures through unit testing & monitoring via Newrelic.
+Currently working within the Data Engineering team to enhance the infrastructure, systems and tools that enable the Data Science team as well as various stakeholders throughout the business. This includes the development of ETL pipelines connecting various data sources through standalone microservices using Kubernetes, Docker, Airflow, DBT, Mode, Alooma, various AWS products as well as establishing security and data quality control measures through unit testing & monitoring via Newrelic.
 
 Originally joined pymetrics as a Data Scientist, working on neuroscience games and bias-free AI and contributed to our open source package, [AuditAI](https://github.com/pymetrics/audit-ai), a python package that promotes fairness-aware machine learning algorithms. Additional responsibilities includes building custom, cross-validated models for each role on company based top performers and working on algorithmic auditing techniques to identify and remove bias.
 
@@ -19,13 +19,14 @@ Graduated from the University of New South Wales in June 2015, completing a doub
 	<li>ETL - Airflow</li>
 	<li>Spark - Dask - Parquet</li>
 	<li>Databases (Redshift, PostgresSQL, Cassandra, MongoDB, MySQL)</li>
-	<li>Django - SQLAlchemy</li>
+	<li>Django - SQLAlchemy - Flask</li>
+	<li>Queues - Celery, RabbitMQ, Redis, Memcached, Huey, Papermill</li>
 	<li>AWS (EC2, EMR, Redshift, Lambda, Athena, Glue)</li>
 	<li>Python (SciPy, Scikit, Pandas, NumPy, Matplotlib, Seaborn)</li>
 	<li>Deep Learning - TensorFlow, PyTorch - CV, NLP</li>
 	<li>Machine Learning (XGBoost, SVM, Logistic, Decision Tree, Random Forest)</li>
-	<li>Python (SciPy, Scikit, Pandas, NumPy, Matplotlib, Seaborn)</li>
-	<li>GCP - Azure</li>
+	<li>Python (SciPy, Scikit-Learn, Dask, Pandas, NumPy, Matplotlib, Seaborn)</li>
+	<li>GCP - AWS - Azure</li>
 	<li>Statistics - Calculus - Algebra</li>
 	<li>Git</li>
 </ul>
@@ -34,6 +35,8 @@ Graduated from the University of New South Wales in June 2015, completing a doub
 
 <ul>
 	<li><a href="https://github.com/pymetrics/audit-ai/">Audit AI</a></li>
+	<li><a href="https://github.com/danieldiamond/missing-semester">MIT Missing Semester</a></li>
+	<li><a href="https://github.com/danieldiamond/esky">Esky</a></li>
 	<li><a href="https://github.com/danieldiamond/dl-projects">Deep Learning: Computer Vision Projects</a></li>
 	<li><a href="https://github.com/danieldiamond/nlp-projects/tree/master/wine-reviews">Deep Learning: NLP Projects</a></li>
 	<li><a href="https://github.com/danieldiamond/data-engineering-capstone/">Data Engineering Capstone Project</a></li>
