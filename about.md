@@ -4,12 +4,13 @@ layout: page
 ---
 ![daniel](/assets/images/daniel.jpg)
 
-Leading the data engineering team at 99designs and scaling data products, ingestion pipelines (ELT) and analytics infrastructure. Collaborating with a diverse group of stakeholders (product, design, marketing, support and analytics) to turn business needs into actionable items and foster a data-driven culture across the organisation.
+Leading a multidisciplinary data platform team at 99designs and fostering a data-driven culture across the organisation. This includes DataOps, developing self-service data products & feature stores, scaling the modern data stack including ingestion & curation pipelines (ELT) and collaborating with a diverse group of stakeholders (engineering, product, design, marketing and support) to turn business needs into actionable items.
+
 
 Skills include:
-- Architect, build and scale our data engineering platform and self-service data products (data lake, Kinesis, dbt, mode etc).
-- Data ingestion pipelines: collecting and processing data across the entire stack, from client-side event logging to ELTs, ensuring pipelines are reliable, efficient, tested, & maintained.
-- Develop, maintain and deploy ML applications, from feature engineering to feedback systems. Identifying opportunities in personalisation, recommendations and matching engines.
+- Architect, build and scale our data engineering platform and self-service data products (data lake, Kinesis, dbt, looker, mode etc).
+- Data ingestion pipelines: collecting and processing data across the entire stack, from client-side event logging to ELTs, ensuring pipelines are reliable, efficient, tested, & maintained (segment, airbyte & debezium, kinesis etc).
+- Develop, maintain and deploy ML applications, from feature engineering to feedback systems. Identifying opportunities in personalisation, recommendations and matching engines (segment personas, aws personalize, fastai, mlflow, dagster etc).
 
 Prior to this, I spent a few years at pymetrics initially as a Data Scientist, working on neuroscience games and bias-free AI, building custom cross-validated ML models and helped develop an open source package, [AuditAI](https://github.com/pymetrics/audit-ai), a python package that promotes fairness-aware machine learning algorithms. I later began focusing on enhancing our existing infrastructure and data tools that empowered the broader organization. This inspired me to transition into data engineering to develop ETL pipelines connecting various data sources through standalone microservices using Kubernetes, Docker, Airflow, DBT, Mode, Stitch and various AWS products as well as establishing security and data quality control measures through unit testing & monitoring via Newrelic.
 
@@ -20,8 +21,8 @@ Graduated from the University of New South Wales in June 2015, completing a doub
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>DevOps: Kubernetes - Docker - Databricks - Dagster - CloudFormation & Terraform - NewRelic & DataDog</li>
-	<li>ELT (ETL) - Airflow</li>
+	<li>DevOps: Kubernetes - Docker - Databricks - Dagster - CDK - CloudFormation - Terraform - NewRelic & DataDog</li>
+	<li>ELT (ETL) - Airbyte - Airflow - dbt</li>
 	<li>Spark - Dask - Parquet</li>
 	<li>Databases (Snowflake, Redshift, PostgresSQL, Cassandra, MongoDB, DynamoDB, MySQL)</li>
 	<li>Segment - Stitch - FiveTran - Mode - Looker - Domo - Iterable - Indicative</li>
